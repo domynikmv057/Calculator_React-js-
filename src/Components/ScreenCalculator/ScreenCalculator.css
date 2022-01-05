@@ -1,0 +1,28 @@
+.css-screen {
+  display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
+  justify-content: center;
+  align-items: flex-end;
+  background-color: #000;
+  flex-direction: column;
+  width: 260px;
+  flex-wrap: wrap;
+}
+
+.css-screen-operation {
+  font-size: 25px;
+  color: #fff;
+  height: 60px;
+}
+
+.css-screen-result {
+  font-size: 50px;
+  color: #fff;
+}
+
+.css-screen-test {
+  color: #fff;
+  font-size: 20px;
+  align-self: flex-start;
+}

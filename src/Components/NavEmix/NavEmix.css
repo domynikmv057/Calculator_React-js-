@@ -1,0 +1,20 @@
+nav {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  background-color: #006a6a;
+  padding-top: 20px;
+  height: 100%;
+  width: 100%;
+}
+
+nav div {
+  color: #ffff;
+  font-size: 2rem;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+nav div span {
+  font-weight: bold;
+  font-family: "Open Sans Condensed", sans-serif;
+}

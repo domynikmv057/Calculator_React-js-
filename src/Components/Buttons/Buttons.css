@@ -1,0 +1,23 @@
+.css-button-operation {
+  font-size: 30px;
+  height: 75px;
+  width: 75px;
+  padding: 20px;
+  background-color: #373737;
+  color: #fff;
+  border-color: #000;
+  text-align: center;
+  outline: none;
+}
+
+.backspace {
+  font-size: 25px;
+}
+
+.css-operr-style {
+  background-color: #1b1b1b;
+}
+
+.css-button-calc {
+  background-color: #df7f00;
+}
